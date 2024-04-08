@@ -2,6 +2,7 @@
   
 An assortment of command line scripts written for the Java compiler and interpreter.  
   
+[**HostToIP.java:**](https://github.com/chaseofthejungle/java-networking-scripts/blob/main/scripts/HostToIP.java) Outputs the corresponding IP address of a provided host name.  
 [**SimpleDateClient.java:**](https://github.com/chaseofthejungle/java-networking-scripts/blob/main/scripts/SimpleDateClient.java) A timestamp client, implemented in tandem with SimpleDateServer.java. Not intended for production environments.  
 [**SimpleDateServer.java:**](https://github.com/chaseofthejungle/java-networking-scripts/blob/main/scripts/SimpleDateServer.java) A timestamp server, implemented in tandem with SimpleDateClient.java. Not intended for production environments.  
 [**SystemProxySettings.java:**](https://github.com/chaseofthejungle/java-networking-scripts/blob/main/scripts/SystemProxySettings.java) Reports hostname and port identification for a specified proxy system.  
