@@ -1,4 +1,4 @@
-# java-networking-scripts
+# Java Networking Scripts
   
 An assortment of command line scripts written for the Java compiler and interpreter.  
   
