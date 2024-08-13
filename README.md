@@ -1,6 +1,6 @@
 # Java Networking Scripts
   
-**Description:** An assortment of command line scripts written for the Java compiler and interpreter.  
+**Description:** An assortment of command line scripts written for the [Java](https://www.java.com/en/) compiler and interpreter.  
   
 | Script File Name | Summary of Script Purpose |  
 | ---------- | ---------- |  
