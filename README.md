@@ -1,8 +1,6 @@
 # Java Networking Scripts
-  
-**Description:** An assortment of command line scripts written for the [Java](https://www.java.com/en/) compiler and interpreter.  
-  
-*Note: If looking for an online Java compiler with multi-class support, consider [Codiva](https://www.codiva.io/).*  
+    
+*Note: If looking for an online [Java](https://www.java.com/en/) compiler with multi-class support, consider [Codiva](https://www.codiva.io/).*  
 
 | Script | Purpose |  
 | ---------- | ---------- |  
