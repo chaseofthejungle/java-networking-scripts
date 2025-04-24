@@ -7,7 +7,7 @@
 #### Table of Contents
 
 1. [Java Scripts](#scripts)
-2. [Supplemental Resource](#supplemental)
+2. [Supplemental Resources](#supplemental)
 
 <hr />
   
@@ -25,6 +25,7 @@
 
 <hr />
   
-## <a name="supplemental">2. Supplemental Resource</a>
+## <a name="supplemental">2. Supplemental Resources</a>
   
-* [Intro to Java Overview Guide](https://github.com/chaseofthejungle/intro-to-java)
+* *[Intro to Java Overview Guide](https://github.com/chaseofthejungle/intro-to-java)*
+* *[Java Quick Reference Guide](https://github.com/chaseofthejungle/java-quick-reference-guide)*
