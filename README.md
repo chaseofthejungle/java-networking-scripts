@@ -27,5 +27,6 @@
   
 ## <a name="supplemental">2. Supplemental Resources</a>
   
+* *[Codiva](https://www.codiva.io/)*  
 * *[Intro to Java Overview Guide](https://github.com/chaseofthejungle/intro-to-java)*
 * *[Java Quick Reference Guide](https://github.com/chaseofthejungle/java-quick-reference-guide)*
